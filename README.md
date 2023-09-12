@@ -1,5 +1,6 @@
 # Threads
-# Build and Deploy a Full Stack MERN Next.js 13 Threads App | React, Next JS, TypeScript, MongoDB
+# Build and Deploy a Full Stack MERN Next.js 13 Threads App | React, Next JS, TypeScript, MongoDB   
+# Live :- https://threads-psi.vercel.app/
 ## Summary
 Develop Threads using React, Next JS, TypeScript, MongoDB
 Learn MongoDB handling of complex schemas, multiple data population
